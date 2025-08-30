@@ -198,24 +198,7 @@ function About() {
             alt="Shakir Afghan Profile"
             className="relative rounded-lg w-full object-cover transition-transform duration-500 hover:scale-105"
           />
-          <DottedCircle
-          size={230}
-          className="absolute -translate-x-1/2 -translate-y-1/2 animate-spin-slow"
-          dots={70}
-          color="rgba(90, 232, 232, 0.678)"
-        />
-        <DottedCircle
-          size={250}
-          className="absolute -translate-x-1/2 -translate-y-1/2 animate-spin-fast-reverse"
-          dots={80}
-          color="rgba(90, 232, 232, 0.4)"
-        />
-        <DottedCircle
-          size={280}
-          className="absolute -translate-x-1/2 -translate-y-1/2 animate-spin-slow"
-          dots={100}
-          color="rgba(90, 232, 232, 0.3)"
-        />
+         
           
         </div>
         
